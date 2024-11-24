@@ -1,0 +1,1 @@
+This is a personal portfolio website for Daniel Segawa, showcasing my work in technology, wildlife conservation, and photography. The website includes sections like About Me, Projects, and a Visitor Registration form for updates and community building.
